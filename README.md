@@ -64,11 +64,11 @@ A desktop calculator application built with Java Swing that supports:
 - Clear and backspace controls
 
 ## Currently Learning
-- Advanced React
-- System Design
-- REST APIs
-- Clean Architecture
-- Software Testing
+- Improving my backend development skills with FastAPI
+- Learning more about React and modern frontend development
+- Exploring System Design concepts
+- Practicing Software Testing and clean code principles
+- Building full-stack applications
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/abdulrahmanbadawood
