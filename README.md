@@ -69,7 +69,3 @@ A desktop calculator application built with Java Swing that supports:
 - Exploring System Design concepts
 - Practicing Software Testing and clean code principles
 - Building full-stack applications
-
-## Connect With Me
-- LinkedIn: linkedin.com/in/abdulrahmanbadawood
-- Email: abdulrahman.swe@outlook.com
