@@ -1,7 +1,7 @@
 # Hi there, I'm Abdulrahman 👋
 
 ## About Me
-I'm Abdulrahman Badawood, a Software Engineering student at Umm Al-Qura University.
+I'm a Software Engineering student at Umm Al-Qura University.
 
 I'm currently in my third year of Software Engineering, and I'm passionate about web and software development.
 
